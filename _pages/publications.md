@@ -18,7 +18,7 @@ My research interests extend into groundwater-surface water interactions, Critic
 
 {% include base_path %}
 
-# Replace Publications wit Projects
+# Replace Publications with Projects
 ## Can start a new _projects folder
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
