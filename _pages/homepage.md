@@ -1,6 +1,6 @@
 ---
 permalink: / 
-title: "The Aspiring Hydrologist!"
+title: "Kyle Compare"
 excerpt: "Home Page"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,15 @@ header:
   caption: ""
 excerpt: "PhD Candidate, Florida State University"
 ---
+## Overview
+I am an aspiring hydrogeologist, pursuing a PhD in (Hydro)Geology from Florida State University. My research interests broadly encompass:
+* Groundwater-Surface Water Interactions
+* Environmental Data Science
+* Complex and Changing Hydrologic Systems. 
 
-Kyle Compare is an aspiring hydrogeologist, pursuing a PhD in (Hydro)Geology from Florida State University. His research include groundwater-surface water interactions, environmental data science, and conceptualizing complex hydrologic systems. He hopes to expand his research to encompass chemical transport within the Critical Zone and the impacts of climate change on hydrologic systems.
+My doctoral research involves  the complex groundwater-surface water interactions within the Woodville Karst Plain of Northern Florida. I aim to use aquatic geochemical analysis and deep learning models to better understand water flow in the Wakulla Springshed.
 
-Kyle’s doctoral research involves  the complex groundwater-surface water interactions within the Woodville Karst Plain of Northern Florida. He uses natural geochemical tracers to track the imapcts of dynamic lake sinkhole draining events in the carbonate Floridan Aquifer. He also uses machine learning techniques to model the flow of water within the karst Wakulla springshed. He hopes that this geochemical and data science perspective will understand how karst aquifers will respond to dynamic events.
+<p float="middle">
+    <img src="images/kayak.jpg" alt="Kyle kayaking above the Lake Miccosukee Sinkhole" width="300" title="Above a Submerged Lake Sinkhole">
+    <img src="images/drone_sinkhole.jpg" alt="Kyle kayaking above the Lake Miccosukee Sinkhole" width="400" title="Above a Drained Lake Sinkhole">
+</p>
