@@ -26,3 +26,7 @@ My doctoral research involves  the complex groundwater-surface water interaction
     <img src="images/kayak.jpg" alt="Kyle kayaking above the Lake Miccosukee Sinkhole" width="300" title="Above a Submerged Lake Sinkhole">
     <img src="images/drone_sinkhole.jpg" alt="Kyle kayaking above the Lake Miccosukee Sinkhole" width="400" title="Above a Drained Lake Sinkhole">
 </p>
+
+
+
+Outside of academics, I enjoy hiking, drinking coffee, and spending time with my Carolina Dog, Raleigh.
