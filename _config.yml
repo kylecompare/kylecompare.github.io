@@ -83,8 +83,8 @@ author:
   name             : "Kyle Compare"
   avatar           : "Compare1.jpg"
   bio              : "Physical Scientist"
-  location         : "Idaho Water Science Center"
-  employer         : "U.S. Geological Survey"
+  location         : "USGS Idaho Water Science Center"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N2xt7v4AAAAJ&hl=en&authuser=1"
   email            :
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "kylecompare"
+  bluesky           : "@kylecontrast.bsky.social"  
   google_plus      :
   keybase          :
   instagram        :

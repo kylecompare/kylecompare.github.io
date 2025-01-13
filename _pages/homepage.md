@@ -1,6 +1,6 @@
 ---
 permalink: / 
-title: "Kyle Compare"
+title: "Kyle Compare, Ph.D."
 excerpt: "Home Page"
 author_profile: true
 redirect_from: 
@@ -12,15 +12,16 @@ header:
   overlay_image: banner.jpg
   actions:
   caption: ""
-excerpt: "PhD Candidate, Florida State University"
+excerpt: "Water Scientist at the U.S. Geological Survey"
 ---
 ## Overview
-I am an aspiring hydrogeologist, pursuing a PhD in (Hydro)Geology from Florida State University. My research interests broadly encompass:
+I am Physical Scientist at the USGS Idaho Waater Science Center, specializing in environmental data science and hydrological machine learning. My research interests broadly encompass:
 * Groundwater-Surface Water Interactions
+* Estimating Flow at Springs
 * Environmental Data Science
-* Complex and Changing Hydrologic Systems. 
+* Hydrologic System Response to Stress. 
 
-My doctoral research involves  the complex groundwater-surface water interactions within the Woodville Karst Plain of Northern Florida. I aim to use aquatic geochemical analysis and deep learning models to better understand water flow in the Wakulla Springshed.
+My doctoral research at Florida State University involved studying the complex groundwater-surface water interactions within the Woodville Karst Plain and Outstanding Florida Springs of Northern Florida
 
 <p float="middle">
     <img src="images/kayak.jpg" alt="Kyle kayaking above the Lake Miccosukee Sinkhole" width="300" title="Above a Submerged Lake Sinkhole">
