@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kyle Compare"
   avatar           : "Compare1.jpg"
-  bio              : "PhD Candidate - Hydrogeology"
-  location         : "Florida State University"
-  employer         :
+  bio              : "Physical Scientist"
+  location         : "Idaho Water Science Center"
+  employer         : "U.S. Geological Survey"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N2xt7v4AAAAJ&hl=en&authuser=1"
   email            :
@@ -191,6 +191,17 @@ collections:
 
 # Defaults
 defaults:
+ # _about
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""
