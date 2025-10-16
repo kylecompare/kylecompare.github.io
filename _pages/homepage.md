@@ -15,11 +15,11 @@ header:
 excerpt: "Water Scientist at the U.S. Geological Survey"
 ---
 ## Overview
-I am Physical Scientist at the USGS Idaho Waater Science Center, specializing in environmental data science and hydrological machine learning. My research interests broadly encompass:
+I am Physical Scientist at the USGS Idaho Water Science Center, specializing in environmental data science and hydrological machine learning. My research interests broadly encompass:
 * Groundwater-Surface Water Interactions
 * Estimating Flow at Springs
+* Hydrologic System Response to Stress
 * Environmental Data Science
-* Hydrologic System Response to Stress. 
 
 My doctoral research at Florida State University involved studying the complex groundwater-surface water interactions within the Woodville Karst Plain and Outstanding Florida Springs of Northern Florida
 
